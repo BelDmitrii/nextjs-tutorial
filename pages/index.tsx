@@ -63,7 +63,7 @@ export default function Home() {
         </header>
       <main>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam hic
+          KUKOREMLorem ipsum dolor sit amet consectetur adipisicing elit. Veniam hic
           ullam esse natus, sapiente porro vero numquam minima harum maiores
           reprehenderit voluptatum praesentium consequuntur voluptate dolores
           fuga quas? Eum, totam?
